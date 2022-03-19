@@ -1,0 +1,13 @@
+{
+    "git.autofetch": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "git.repositoryScanIgnoredFolders": [
+        "node_modules",
+        "C:\\Users\\tails"
+    ],
+    "git.scanRepositories": [
+        "C:\\Users\\tails\\treinamento"
+    ]
+}
